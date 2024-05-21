@@ -1,1 +1,1 @@
-# amod-enjoy
+# amod-enjoy.m3u
